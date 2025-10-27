@@ -65,7 +65,7 @@ function App() {
       )}
 
       <div className="App">
-        <h1 style={{ color: "white" }}>Gdrive 3.0</h1>
+        <h1 style={{ color: "white" }}>SecureFileNet</h1>
         <div className="bg"></div>
         <div className="bg bg2"></div>
         <div className="bg bg3"></div>

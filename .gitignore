@@ -16,12 +16,6 @@ cache/
 # Logs
 *.log
 
-# Compiled contracts
-client/src/artifacts/
-
-# Build output
-client/build/
-
 # IDE and editor settings
 .vscode/
 .idea/
