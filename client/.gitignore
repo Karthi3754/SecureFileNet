@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Hardhat artifacts and cache
+artifacts/
+cache/
+
+# Ethereum-related files
+*.secret
+*.key
+
+# Logs
+*.log
+
+# Compiled contracts
+client/src/artifacts/
+
+# Build output
+client/build/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
